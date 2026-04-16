@@ -91,7 +91,7 @@ h1 {
 .about {
   font-size: 16px;
   font-weight: 700;
-  color: #424551;
+  color: #ff3f3a;
   padding: 15px 40px;
   border: 2px solid #ff3f3a;
   border-radius: 4px;
@@ -174,4 +174,71 @@ h6 {
 }
 .none {
   margin-bottom: 0px;
+}
+.courses {
+  width: 1110px;
+  height: 860px;
+  padding: 0px 70px;
+  margin-bottom: 100px;
+  margin: auto;
+}
+.le {
+  margin-left: 570px;
+}
+.people {
+  width: 830px;
+  height: 512px;
+  margin-top: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-content: space-between;
+}
+.person {
+  width: 395px;
+  height: 140px;
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #e5e8ed;
+  border-radius: 4px;
+}
+.persona {
+  width: 140px;
+  height: 140px;
+}
+.text {
+  width: 230px;
+  height: 110px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+  align-self: center;
+}
+.prof {
+  max-width: 100px;
+  height: 30px;
+  text-align: center;
+  font-size: 14px;
+  font-weight: 400;
+  padding: 5px 8px;
+  border-radius: 4px;
+  color: #ffffff;
+  background-color: #5a87fc;
+}
+.abot {
+  font-size: 20px;
+  font-weight: 700;
+}
+.info {
+  font-size: 18px;
+  font-weight: 400;
+  color: #787a80;
+  margin-top: 10px;
+}
+b {
+  font-weight: 700;
+  color: #ff4242;
+  padding: 4px;
+  border-right: 1px solid #787a80;
+  margin-right: 4px;
 }
