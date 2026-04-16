@@ -134,3 +134,42 @@ li {
   color: #1e212c;
   align-items: center;
 }
+.why {
+  width: 1110px;
+  height: 560px;
+  display: flex;
+  padding: 0px 70px;
+  margin-top: 200px;
+  align-items: center;
+  justify-content: space-between;
+}
+.image {
+  width: 705px;
+  height: 560px;
+}
+.way {
+  width: 390px;
+  height: 560px;
+}
+h6 {
+  font-size: 16px;
+  font-weight: 700;
+  color: #1e212c;
+  margin-bottom: 20px;
+  text-transform: capitalize;
+}
+.pochemu {
+  width: 350px;
+  height: 294px;
+  display: block;
+  margin-top: 20px;
+}
+.pochamu {
+  font-size: 16px;
+  font-weight: 400;
+  margin-bottom: 20px;
+  color: #424551;
+}
+.none {
+  margin-bottom: 0px;
+}
