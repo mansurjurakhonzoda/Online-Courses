@@ -47,3 +47,77 @@ h1 {
   height: 844px;
   padding: 50px 25px 0px;
 }
+.speaking {
+  width: 256px;
+  height: 600px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px 15px;
+}
+.shared {
+  width: 256px;
+  height: 256px;
+}
+.zvanie {
+  font-size: 30px;
+  font-weight: 600;
+  color: #263238;
+}
+.poppins {
+  font-size: 16px;
+  font-weight: 400;
+  color: #8f95a5;
+  margin-top: 10px;
+  margin-bottom: 30px;
+}
+.learn {
+  width: 90px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  padding: 18px 40px;
+  background-color: #263238;
+  border-radius: 4px;
+}
+.writing {
+  width: 255px;
+  height: 420px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px 15px;
+  margin-left: 320px;
+  margin-top: -640px;
+}
+.writer {
+  width: 193px;
+  height: 193px;
+  margin-left: 60px;
+}
+.reading {
+  width: 371px;
+  height: 430px;
+  margin-left: 640px;
+  margin-top: 10px;
+  margin-top: -460px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px 15px;
+}
+.listening {
+  width: 690px;
+  height: 195px;
+  background-color: #f5f5f5;
+  border-radius: 10px;
+  padding: 20px 15px;
+  margin-top: 20px;
+  margin-left: 320px;
+  display: flex;
+  justify-content: space-around;
+}
+.textik {
+  width: 300px;
+  height: 195px;
+  display: flex;
+  flex-direction: column;
+  align-content: space-between;
+}
