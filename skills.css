@@ -1,0 +1,38 @@
+@import url("https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+* {
+  margin: 0px;
+  font-family: "Lato", sans-serif;
+}
+.logo {
+  width: 106px;
+  height: 54px;
+}
+.head {
+  width: 1230px;
+  height: 52px;
+  margin-top: 70px;
+  margin: auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  align-content: center;
+}
+a {
+  text-decoration: none;
+  color: #424551;
+  font-weight: 700;
+  font-size: 16px;
+}
+.sslki {
+  width: 432px;
+  height: 26px;
+  display: flex;
+  justify-content: space-between;
+}
+.get {
+  font-size: 24px;
+  font-weight: 400;
+  padding: 8px 57px;
+  border-radius: 4px;
+  border: 1px solid #424551;
+}
